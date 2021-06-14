@@ -3,3 +3,5 @@
 Multiclass and binary classification using Keras on MNIST dataset.
  
 Using the MNIST dataset, we are going to color the pictures in red or green, then we are going to predict the digit and its color.
+
+Check the other branch for both mutliclass classification (added blue color to the generator)
